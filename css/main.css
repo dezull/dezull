@@ -1,0 +1,20 @@
+body {
+    background-color: #b2b2b2;
+}
+
+h1 {
+}
+
+#content {
+    padding: 75px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#header,
+#subheader {
+    color: #ffffff;
+    font-family: 'Scada', sans-serif;
+    text-shadow: 2px 2px 10px #969696;
+    filter: dropshadow(color=#969696, offx=2, offy=2);
+}
