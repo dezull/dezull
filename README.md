@@ -1,0 +1,2 @@
+# dezull
+dezull.my
